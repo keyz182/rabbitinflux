@@ -1,0 +1,14 @@
+{
+  "name": "rabbitinflux",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "dependencies": {
+    "influx": "~3.3.0",
+    "request": "~2.53.0",
+    "later": "^1.1.6",
+    "lodash": "^3.3.1"
+  }
+}
